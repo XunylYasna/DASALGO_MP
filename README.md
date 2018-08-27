@@ -6,4 +6,4 @@ Title: Mailman Delivery Simulation
 
 Instructor: Pau Rivera
 
-Background: A TSP like problem coded using java and swing. 
+Background: A TSP like problem implemented using a branch and bound algorithm. Coded using java. 
